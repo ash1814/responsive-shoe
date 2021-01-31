@@ -1,0 +1,53 @@
+header img{
+    width: 150px;
+
+}
+
+header{
+    background-color: #FFF9F4;
+}
+
+.nav-area img{
+
+
+    width: 100%;
+}
+
+.nav-area{
+    background-color: #FFF9F4;
+}
+
+.link-button{
+
+    text-decoration: none;
+    width: 380px;
+    height: 60px;
+    padding: 9px 25px;
+    border-radius: 10px;
+    background-color: rgb(91, 91, 218) ;
+    color: white;
+    
+}
+
+.top-banner{
+width: 80%;
+margin-top: 100px;
+padding-top: 120px;  
+padding-left: 20px;   
+height: 304px;
+}
+
+
+.card-group{
+
+    
+
+}
+.card-footer{
+border: none;
+box-shadow: solid grey;
+ background: white;
+    
+
+}
+
