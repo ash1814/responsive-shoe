@@ -1,53 +1,53 @@
-header img{
-    width: 150px;
-
-}
-
-header{
+.head-area, .top-area{
     background-color: #FFF9F4;
 }
 
-.nav-area img{
-
-
-    width: 100%;
-}
-
-.nav-area{
-    background-color: #FFF9F4;
-}
 
 .link-button{
 
     text-decoration: none;
+    margin-left: 100px; 
     width: 380px;
+    margin-top:80px;
     height: 60px;
     padding: 9px 25px;
     border-radius: 10px;
-    background-color: rgb(91, 91, 218) ;
+    background-color: rgb(73, 73, 209) ;
     color: white;
     
 }
+ .casual-area img{
+     width: 100%;
+ }
 
-.top-banner{
-width: 80%;
-margin-top: 100px;
-padding-top: 120px;  
-padding-left: 20px;   
-height: 304px;
+ .formal-area{
+    margin-bottom: 50px;
+
+
+ }
+
+ .image-part{
+    width: 400px;
+    height: 150px;
+
+
+
+ }
+.image-area{
+    width: 20px;
+   
+}
+.fit{
+    width: 130px;
 }
 
+.cart-image img{
 
-.card-group{
+   height: 354.0699157714844px;
+width: 599px;
+left: 707px;
+top: 2308px;
+border-radius: 0px;
 
-    
-
-}
-.card-footer{
-border: none;
-box-shadow: solid grey;
- background: white;
-    
 
 }
-
